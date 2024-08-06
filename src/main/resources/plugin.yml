@@ -2,6 +2,7 @@ name: Lootbox
 version: '1.0-SNAPSHOT'
 main: de.jonasheilig.lootbox.Lootbox
 api-version: '1.21'
+depend: [abilitiesSystem]
 commands:
   spawnLootboxNPC:
     description: Spawns a lootbox NPC
