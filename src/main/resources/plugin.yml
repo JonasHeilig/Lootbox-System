@@ -1,0 +1,8 @@
+name: Lootbox
+version: '1.0-SNAPSHOT'
+main: de.jonasheilig.lootbox.Lootbox
+api-version: '1.21'
+commands:
+  spawnLootboxNPC:
+    description: Spawns a lootbox NPC
+    usage: /spawnLootboxNPC
